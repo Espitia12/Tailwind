@@ -30,8 +30,8 @@ function App() {
 
 
         </section>
-        <section className=' w-1/2  ml-3 mr-5 border-4 border-gray-500'>
-         
+        <section className=' w-1/2  ml-3 mr-5 border-4 border-gray-500 flex-row'>
+          <Noticia/>
         </section>
       </MainBlog>
       
